@@ -26,5 +26,8 @@
 ## Risk Analysis
 ![Risk]()
 
+## User Acceptance Testing
+![User Acceptance Testing]()
+
 ## Final Outcome
 This is the website we came up with
